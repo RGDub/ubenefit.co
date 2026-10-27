@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Weatherford;Grant;;;
+FN:Grant Weatherford
+ORG:Universal Benefit Corporation
+TITLE:Chairman, President & CEO
+EMAIL;TYPE=WORK,INTERNET:grant.weatherford@ubenefit.co
+URL:https://ubenefit.co
+ADR;TYPE=WORK:;PMB 189;1754 Woodruff Road;Greenville;SC;29607;USA
+END:VCARD
